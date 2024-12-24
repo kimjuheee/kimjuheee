@@ -6,9 +6,5 @@
 #### ✨ Who am I
 [![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=https://www.notion.so/166592756ded80cc9332e6ba818a3006?pvs=4)](https://www.notion.so/166592756ded80cc9332e6ba818a3006?pvs=4)
 
-#### ✨ Blog & Note
-[![Velog Badge](https://img.shields.io/badge/-Velog-92a8d1?logo=velog&logoColor=white&link=https://velog.io/@juheekim/posts)](https://velog.io/@juheekim/posts)
-
 #### ✨ Dev logs
 [![kimjuheee's github stats](https://github-readme-stats.vercel.app/api?username=kimjuheee&count_private=true&custom_title=kimjuheee's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wngml00118)](https://solved.ac/wngml00118)
